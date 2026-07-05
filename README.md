@@ -1,3 +1,3 @@
 # hello!
 
-[src.liz.coffee](https://src.liz.coffee)
+[code.liz.coffee](https://code.liz.coffee)
